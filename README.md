@@ -1,4 +1,4 @@
 hq-rep
 ======
 
-A repository with the software used by SEED Bank members
+A repository for the software used by SEED Bank members
